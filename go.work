@@ -4,4 +4,5 @@ use (
 	./hello
 	./integers
 	./iteration
+	./structs_methods_interfaces
 )
