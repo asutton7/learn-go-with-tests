@@ -1,6 +1,7 @@
 go 1.18
 
 use (
+	./dependency_injection
 	./hello
 	./integers
 	./iteration
