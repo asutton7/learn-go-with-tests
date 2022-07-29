@@ -4,6 +4,7 @@ use (
 	./hello
 	./integers
 	./iteration
+	./maps
 	./pointers_errors
 	./structs_methods_interfaces
 )
