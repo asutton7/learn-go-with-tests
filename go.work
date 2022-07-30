@@ -8,5 +8,6 @@ use (
 	./maps
 	./mocking
 	./pointers_errors
+	./select
 	./structs_methods_interfaces
 )
